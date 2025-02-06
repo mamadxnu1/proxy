@@ -12,4 +12,3 @@ Sec-Fetch-Mode: cors
 Sec-Fetch-Site: same-site
 Priority: u=0
 Te: trailers
-
